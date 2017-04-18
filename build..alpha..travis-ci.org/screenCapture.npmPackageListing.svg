@@ -1,171 +1,171 @@
 <svg height="2686" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2686" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 22:14:00 +0000  3732887 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 22:14:00 +0000     1401 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 22:14:00 +0000    11357 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 22:14:00 +0000      467 bytes  NOTICE</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 22:14:00 +0000    31573 bytes  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 22:14:00 +0000     9354 bytes  RELEASENOTES.md</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 22:14:00 +0000    32255 bytes  doc/de/README.md</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 22:14:00 +0000    30045 bytes  doc/de/index.md</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 22:14:00 +0000    31917 bytes  doc/es/README.md</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 22:14:00 +0000    29103 bytes  doc/es/index.md</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 22:14:00 +0000    32588 bytes  doc/fr/README.md</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 22:14:00 +0000    30203 bytes  doc/fr/index.md</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 22:14:00 +0000    32527 bytes  doc/it/README.md</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 22:14:00 +0000    30368 bytes  doc/it/index.md</tspan>
-<tspan x="10" y="250"> 14.  2017-04-18 22:14:00 +0000    36132 bytes  doc/ja/README.md</tspan>
-<tspan x="10" y="266"> 15.  2017-04-18 22:14:00 +0000    33544 bytes  doc/ja/index.md</tspan>
-<tspan x="10" y="282"> 16.  2017-04-18 22:14:00 +0000    32660 bytes  doc/ko/README.md</tspan>
-<tspan x="10" y="298"> 17.  2017-04-18 22:14:00 +0000    30325 bytes  doc/ko/index.md</tspan>
-<tspan x="10" y="314"> 18.  2017-04-18 22:14:00 +0000    30871 bytes  doc/pl/README.md</tspan>
-<tspan x="10" y="330"> 19.  2017-04-18 22:14:00 +0000    28576 bytes  doc/pl/index.md</tspan>
-<tspan x="10" y="346"> 20.  2017-04-18 22:14:00 +0000    33985 bytes  doc/ru/index.md</tspan>
-<tspan x="10" y="362"> 21.  2017-04-18 22:14:00 +0000    28883 bytes  doc/zh/README.md</tspan>
-<tspan x="10" y="378"> 22.  2017-04-18 22:14:00 +0000    26991 bytes  doc/zh/index.md</tspan>
-<tspan x="10" y="394"> 23.  2017-04-18 22:14:00 +0000     3624 bytes  package.json</tspan>
-<tspan x="10" y="410"> 24.  2017-04-18 22:14:00 +0000     6074 bytes  plugin.xml</tspan>
-<tspan x="10" y="426"> 25.  2017-04-18 22:14:00 +0000    29996 bytes  src/android/Globalization.java</tspan>
-<tspan x="10" y="442"> 26.  2017-04-18 22:14:00 +0000     3268 bytes  src/android/GlobalizationError.java</tspan>
-<tspan x="10" y="458"> 27.  2017-04-18 22:14:00 +0000    24661 bytes  src/blackberry10/index.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-18 22:14:00 +0000   270730 bytes  src/blackberry10/native/device/libGlobalization.\</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 22:15:02 +0000  3732887 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 22:15:02 +0000     1401 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 22:15:02 +0000    11357 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 22:15:02 +0000      467 bytes  NOTICE</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 22:15:02 +0000    31573 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 22:15:02 +0000     9354 bytes  RELEASENOTES.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 22:15:02 +0000    32255 bytes  doc/de/README.md</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 22:15:02 +0000    30045 bytes  doc/de/index.md</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 22:15:02 +0000    31917 bytes  doc/es/README.md</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 22:15:02 +0000    29103 bytes  doc/es/index.md</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 22:15:02 +0000    32588 bytes  doc/fr/README.md</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 22:15:02 +0000    30203 bytes  doc/fr/index.md</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 22:15:02 +0000    32527 bytes  doc/it/README.md</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 22:15:02 +0000    30368 bytes  doc/it/index.md</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 22:15:02 +0000    36132 bytes  doc/ja/README.md</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 22:15:02 +0000    33544 bytes  doc/ja/index.md</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 22:15:02 +0000    32660 bytes  doc/ko/README.md</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 22:15:02 +0000    30325 bytes  doc/ko/index.md</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 22:15:02 +0000    30871 bytes  doc/pl/README.md</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 22:15:02 +0000    28576 bytes  doc/pl/index.md</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 22:15:02 +0000    33985 bytes  doc/ru/index.md</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 22:15:02 +0000    28883 bytes  doc/zh/README.md</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 22:15:02 +0000    26991 bytes  doc/zh/index.md</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 22:15:02 +0000     3624 bytes  package.json</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 22:15:02 +0000     6074 bytes  plugin.xml</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 22:15:02 +0000    29996 bytes  src/android/Globalization.java</tspan>
+<tspan x="10" y="442"> 26.  2017-04-18 22:15:02 +0000     3268 bytes  src/android/GlobalizationError.java</tspan>
+<tspan x="10" y="458"> 27.  2017-04-18 22:15:02 +0000    24661 bytes  src/blackberry10/index.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-18 22:15:02 +0000   270730 bytes  src/blackberry10/native/device/libGlobalization.\</tspan>
 <tspan x="10" y="490">so</tspan>
-<tspan x="10" y="506"> 29.  2017-04-18 22:14:00 +0000     1695 bytes  src/blackberry10/native/public/json/autolink.h</tspan>
-<tspan x="10" y="522"> 30.  2017-04-18 22:14:00 +0000     2793 bytes  src/blackberry10/native/public/json/config.h</tspan>
-<tspan x="10" y="538"> 31.  2017-04-18 22:14:00 +0000     2547 bytes  src/blackberry10/native/public/json/features.h</tspan>
-<tspan x="10" y="554"> 32.  2017-04-18 22:14:00 +0000     1992 bytes  src/blackberry10/native/public/json/forwards.h</tspan>
-<tspan x="10" y="570"> 33.  2017-04-18 22:14:00 +0000     1457 bytes  src/blackberry10/native/public/json/json.h</tspan>
-<tspan x="10" y="586"> 34.  2017-04-18 22:14:00 +0000     7743 bytes  src/blackberry10/native/public/json/reader.h</tspan>
-<tspan x="10" y="602"> 35.  2017-04-18 22:14:00 +0000    35217 bytes  src/blackberry10/native/public/json/value.h</tspan>
-<tspan x="10" y="618"> 36.  2017-04-18 22:14:00 +0000     7445 bytes  src/blackberry10/native/public/json/writer.h</tspan>
-<tspan x="10" y="634"> 37.  2017-04-18 22:14:00 +0000     5183 bytes  src/blackberry10/native/public/json_batchallocat\</tspan>
+<tspan x="10" y="506"> 29.  2017-04-18 22:15:02 +0000     1695 bytes  src/blackberry10/native/public/json/autolink.h</tspan>
+<tspan x="10" y="522"> 30.  2017-04-18 22:15:02 +0000     2793 bytes  src/blackberry10/native/public/json/config.h</tspan>
+<tspan x="10" y="538"> 31.  2017-04-18 22:15:02 +0000     2547 bytes  src/blackberry10/native/public/json/features.h</tspan>
+<tspan x="10" y="554"> 32.  2017-04-18 22:15:02 +0000     1992 bytes  src/blackberry10/native/public/json/forwards.h</tspan>
+<tspan x="10" y="570"> 33.  2017-04-18 22:15:02 +0000     1457 bytes  src/blackberry10/native/public/json/json.h</tspan>
+<tspan x="10" y="586"> 34.  2017-04-18 22:15:02 +0000     7743 bytes  src/blackberry10/native/public/json/reader.h</tspan>
+<tspan x="10" y="602"> 35.  2017-04-18 22:15:02 +0000    35217 bytes  src/blackberry10/native/public/json/value.h</tspan>
+<tspan x="10" y="618"> 36.  2017-04-18 22:15:02 +0000     7445 bytes  src/blackberry10/native/public/json/writer.h</tspan>
+<tspan x="10" y="634"> 37.  2017-04-18 22:15:02 +0000     5183 bytes  src/blackberry10/native/public/json_batchallocat\</tspan>
 <tspan x="10" y="650">or.h</tspan>
-<tspan x="10" y="666"> 38.  2017-04-18 22:14:00 +0000    13925 bytes  src/blackberry10/native/public/json_internalarra\</tspan>
+<tspan x="10" y="666"> 38.  2017-04-18 22:15:02 +0000    13925 bytes  src/blackberry10/native/public/json_internalarra\</tspan>
 <tspan x="10" y="682">y.inl</tspan>
-<tspan x="10" y="698"> 39.  2017-04-18 22:14:00 +0000    17549 bytes  src/blackberry10/native/public/json_internalmap.\</tspan>
+<tspan x="10" y="698"> 39.  2017-04-18 22:15:02 +0000    17549 bytes  src/blackberry10/native/public/json_internalmap.\</tspan>
 <tspan x="10" y="714">inl</tspan>
-<tspan x="10" y="730"> 40.  2017-04-18 22:14:00 +0000    22356 bytes  src/blackberry10/native/public/json_reader.cpp</tspan>
-<tspan x="10" y="746"> 41.  2017-04-18 22:14:00 +0000    40469 bytes  src/blackberry10/native/public/json_value.cpp</tspan>
-<tspan x="10" y="762"> 42.  2017-04-18 22:14:00 +0000     8623 bytes  src/blackberry10/native/public/json_valueiterato\</tspan>
+<tspan x="10" y="730"> 40.  2017-04-18 22:15:02 +0000    22356 bytes  src/blackberry10/native/public/json_reader.cpp</tspan>
+<tspan x="10" y="746"> 41.  2017-04-18 22:15:02 +0000    40469 bytes  src/blackberry10/native/public/json_value.cpp</tspan>
+<tspan x="10" y="762"> 42.  2017-04-18 22:15:02 +0000     8623 bytes  src/blackberry10/native/public/json_valueiterato\</tspan>
 <tspan x="10" y="778">r.inl</tspan>
-<tspan x="10" y="794"> 43.  2017-04-18 22:14:00 +0000    21570 bytes  src/blackberry10/native/public/json_writer.cpp</tspan>
-<tspan x="10" y="810"> 44.  2017-04-18 22:14:00 +0000     8209 bytes  src/blackberry10/native/public/plugin.cpp</tspan>
-<tspan x="10" y="826"> 45.  2017-04-18 22:14:00 +0000     3113 bytes  src/blackberry10/native/public/plugin.h</tspan>
-<tspan x="10" y="842"> 46.  2017-04-18 22:14:00 +0000     6042 bytes  src/blackberry10/native/public/tokenizer.cpp</tspan>
-<tspan x="10" y="858"> 47.  2017-04-18 22:14:00 +0000     2004 bytes  src/blackberry10/native/public/tokenizer.h</tspan>
-<tspan x="10" y="874"> 48.  2017-04-18 22:14:00 +0000  1400831 bytes  src/blackberry10/native/simulator/libGlobalizati\</tspan>
+<tspan x="10" y="794"> 43.  2017-04-18 22:15:02 +0000    21570 bytes  src/blackberry10/native/public/json_writer.cpp</tspan>
+<tspan x="10" y="810"> 44.  2017-04-18 22:15:02 +0000     8209 bytes  src/blackberry10/native/public/plugin.cpp</tspan>
+<tspan x="10" y="826"> 45.  2017-04-18 22:15:02 +0000     3113 bytes  src/blackberry10/native/public/plugin.h</tspan>
+<tspan x="10" y="842"> 46.  2017-04-18 22:15:02 +0000     6042 bytes  src/blackberry10/native/public/tokenizer.cpp</tspan>
+<tspan x="10" y="858"> 47.  2017-04-18 22:15:02 +0000     2004 bytes  src/blackberry10/native/public/tokenizer.h</tspan>
+<tspan x="10" y="874"> 48.  2017-04-18 22:15:02 +0000  1400831 bytes  src/blackberry10/native/simulator/libGlobalizati\</tspan>
 <tspan x="10" y="890">on.so</tspan>
-<tspan x="10" y="906"> 49.  2017-04-18 22:14:00 +0000     4087 bytes  src/blackberry10/native/src/globalization_js.cpp</tspan>
-<tspan x="10" y="922"> 50.  2017-04-18 22:14:00 +0000     1161 bytes  src/blackberry10/native/src/globalization_js.hpp</tspan>
-<tspan x="10" y="938"> 51.  2017-04-18 22:14:00 +0000    29529 bytes  src/blackberry10/native/src/globalization_ndk.cp\</tspan>
+<tspan x="10" y="906"> 49.  2017-04-18 22:15:02 +0000     4087 bytes  src/blackberry10/native/src/globalization_js.cpp</tspan>
+<tspan x="10" y="922"> 50.  2017-04-18 22:15:02 +0000     1161 bytes  src/blackberry10/native/src/globalization_js.hpp</tspan>
+<tspan x="10" y="938"> 51.  2017-04-18 22:15:02 +0000    29529 bytes  src/blackberry10/native/src/globalization_ndk.cp\</tspan>
 <tspan x="10" y="954">p</tspan>
-<tspan x="10" y="970"> 52.  2017-04-18 22:14:00 +0000     1583 bytes  src/blackberry10/native/src/globalization_ndk.hp\</tspan>
+<tspan x="10" y="970"> 52.  2017-04-18 22:15:02 +0000     1583 bytes  src/blackberry10/native/src/globalization_ndk.hp\</tspan>
 <tspan x="10" y="986">p</tspan>
-<tspan x="10" y="1002"> 53.  2017-04-18 22:14:00 +0000    10725 bytes  src/browser/GlobalizationProxy.js</tspan>
-<tspan x="10" y="1018"> 54.  2017-04-18 22:14:00 +0000     7964 bytes  src/firefoxos/GlobalizationProxy.js</tspan>
-<tspan x="10" y="1034"> 55.  2017-04-18 22:14:00 +0000     5991 bytes  src/ios/CDVGlobalization.h</tspan>
-<tspan x="10" y="1050"> 56.  2017-04-18 22:14:00 +0000    37773 bytes  src/ios/CDVGlobalization.m</tspan>
-<tspan x="10" y="1066"> 57.  2017-04-18 22:14:00 +0000    21756 bytes  src/tizen/GlobalizationProxy.js</tspan>
-<tspan x="10" y="1082"> 58.  2017-04-18 22:14:00 +0000    10878 bytes  src/ubuntu/globalization.cpp</tspan>
-<tspan x="10" y="1098"> 59.  2017-04-18 22:14:00 +0000     2560 bytes  src/ubuntu/globalization.h</tspan>
-<tspan x="10" y="1114"> 60.  2017-04-18 22:14:00 +0000     9940 bytes  src/windows/GlobalizationProxy.js</tspan>
-<tspan x="10" y="1130"> 61.  2017-04-18 22:14:00 +0000    22528 bytes  src/windows/GlobalizationProxy.winmd</tspan>
-<tspan x="10" y="1146"> 62.  2017-04-18 22:14:00 +0000     2755 bytes  src/windows/GlobalizationProxy/GlobalizationProx\</tspan>
+<tspan x="10" y="1002"> 53.  2017-04-18 22:15:02 +0000    10725 bytes  src/browser/GlobalizationProxy.js</tspan>
+<tspan x="10" y="1018"> 54.  2017-04-18 22:15:02 +0000     7964 bytes  src/firefoxos/GlobalizationProxy.js</tspan>
+<tspan x="10" y="1034"> 55.  2017-04-18 22:15:02 +0000     5991 bytes  src/ios/CDVGlobalization.h</tspan>
+<tspan x="10" y="1050"> 56.  2017-04-18 22:15:02 +0000    37773 bytes  src/ios/CDVGlobalization.m</tspan>
+<tspan x="10" y="1066"> 57.  2017-04-18 22:15:02 +0000    21756 bytes  src/tizen/GlobalizationProxy.js</tspan>
+<tspan x="10" y="1082"> 58.  2017-04-18 22:15:02 +0000    10878 bytes  src/ubuntu/globalization.cpp</tspan>
+<tspan x="10" y="1098"> 59.  2017-04-18 22:15:02 +0000     2560 bytes  src/ubuntu/globalization.h</tspan>
+<tspan x="10" y="1114"> 60.  2017-04-18 22:15:02 +0000     9940 bytes  src/windows/GlobalizationProxy.js</tspan>
+<tspan x="10" y="1130"> 61.  2017-04-18 22:15:02 +0000    22528 bytes  src/windows/GlobalizationProxy.winmd</tspan>
+<tspan x="10" y="1146"> 62.  2017-04-18 22:15:02 +0000     2755 bytes  src/windows/GlobalizationProxy/GlobalizationProx\</tspan>
 <tspan x="10" y="1162">y.sln</tspan>
-<tspan x="10" y="1178"> 63.  2017-04-18 22:14:00 +0000     2695 bytes  src/windows/GlobalizationProxy/GlobalizationProx\</tspan>
+<tspan x="10" y="1178"> 63.  2017-04-18 22:15:02 +0000     2695 bytes  src/windows/GlobalizationProxy/GlobalizationProx\</tspan>
 <tspan x="10" y="1194">y/Cordova/JSON/JsonHelper.cs</tspan>
-<tspan x="10" y="1210"> 64.  2017-04-18 22:14:00 +0000    12251 bytes  src/windows/GlobalizationProxy/GlobalizationProx\</tspan>
+<tspan x="10" y="1210"> 64.  2017-04-18 22:15:02 +0000    12251 bytes  src/windows/GlobalizationProxy/GlobalizationProx\</tspan>
 <tspan x="10" y="1226">y/Globalization/GlobalizationApiTypes.cs</tspan>
-<tspan x="10" y="1242"> 65.  2017-04-18 22:14:00 +0000    24477 bytes  src/windows/GlobalizationProxy/GlobalizationProx\</tspan>
+<tspan x="10" y="1242"> 65.  2017-04-18 22:15:02 +0000    24477 bytes  src/windows/GlobalizationProxy/GlobalizationProx\</tspan>
 <tspan x="10" y="1258">y/Globalization/GlobalizationImpl.cs</tspan>
-<tspan x="10" y="1274"> 66.  2017-04-18 22:14:00 +0000     1098 bytes  src/windows/GlobalizationProxy/GlobalizationProx\</tspan>
+<tspan x="10" y="1274"> 66.  2017-04-18 22:15:02 +0000     1098 bytes  src/windows/GlobalizationProxy/GlobalizationProx\</tspan>
 <tspan x="10" y="1290">y/Globalization/SettableCultureInfo.cs</tspan>
-<tspan x="10" y="1306"> 67.  2017-04-18 22:14:00 +0000     3495 bytes  src/windows/GlobalizationProxy/GlobalizationProx\</tspan>
+<tspan x="10" y="1306"> 67.  2017-04-18 22:15:02 +0000     3495 bytes  src/windows/GlobalizationProxy/GlobalizationProx\</tspan>
 <tspan x="10" y="1322">y/GlobalizationProxy.cs</tspan>
-<tspan x="10" y="1338"> 68.  2017-04-18 22:14:00 +0000     6723 bytes  src/windows/GlobalizationProxy/GlobalizationProx\</tspan>
+<tspan x="10" y="1338"> 68.  2017-04-18 22:15:02 +0000     6723 bytes  src/windows/GlobalizationProxy/GlobalizationProx\</tspan>
 <tspan x="10" y="1354">y/GlobalizationProxy.csproj</tspan>
-<tspan x="10" y="1370"> 69.  2017-04-18 22:14:00 +0000     1620 bytes  src/windows/GlobalizationProxy/GlobalizationProx\</tspan>
+<tspan x="10" y="1370"> 69.  2017-04-18 22:15:02 +0000     1620 bytes  src/windows/GlobalizationProxy/GlobalizationProx\</tspan>
 <tspan x="10" y="1386">y/Properties/AssemblyInfo.cs</tspan>
-<tspan x="10" y="1402"> 70.  2017-04-18 22:14:00 +0000     4494 bytes  src/wp/Globalization.cs</tspan>
-<tspan x="10" y="1418"> 71.  2017-04-18 22:14:00 +0000     1112 bytes  tests/plugin.xml</tspan>
-<tspan x="10" y="1434"> 72.  2017-04-18 22:14:00 +0000    30768 bytes  tests/tests.js</tspan>
-<tspan x="10" y="1450"> 73.  2017-04-18 22:14:00 +0000    13002 bytes  types/index.d.ts</tspan>
-<tspan x="10" y="1466"> 74.  2017-04-18 22:14:00 +0000     1246 bytes  www/GlobalizationError.js</tspan>
-<tspan x="10" y="1482"> 75.  2017-04-18 22:14:00 +0000   334362 bytes  www/browser/moment.js</tspan>
-<tspan x="10" y="1498"> 76.  2017-04-18 22:14:00 +0000    38612 bytes  www/firefoxos/l10n.js</tspan>
-<tspan x="10" y="1514"> 77.  2017-04-18 22:14:00 +0000     6038 bytes  www/firefoxos/l10n_date.js</tspan>
-<tspan x="10" y="1530"> 78.  2017-04-18 22:14:00 +0000     7920 bytes  www/firefoxos/locales/date.ar.properties</tspan>
-<tspan x="10" y="1546"> 79.  2017-04-18 22:14:00 +0000     8550 bytes  www/firefoxos/locales/date.as.properties</tspan>
-<tspan x="10" y="1562"> 80.  2017-04-18 22:14:00 +0000     5037 bytes  www/firefoxos/locales/date.ast.properties</tspan>
-<tspan x="10" y="1578"> 81.  2017-04-18 22:14:00 +0000     8099 bytes  www/firefoxos/locales/date.bg.properties</tspan>
-<tspan x="10" y="1594"> 82.  2017-04-18 22:14:00 +0000     9381 bytes  www/firefoxos/locales/date.bn-BD.properties</tspan>
-<tspan x="10" y="1610"> 83.  2017-04-18 22:14:00 +0000     8996 bytes  www/firefoxos/locales/date.bn-IN.properties</tspan>
-<tspan x="10" y="1626"> 84.  2017-04-18 22:14:00 +0000     7240 bytes  www/firefoxos/locales/date.ca.properties</tspan>
-<tspan x="10" y="1642"> 85.  2017-04-18 22:14:00 +0000     7178 bytes  www/firefoxos/locales/date.cs.properties</tspan>
-<tspan x="10" y="1658"> 86.  2017-04-18 22:14:00 +0000     7297 bytes  www/firefoxos/locales/date.cy.properties</tspan>
-<tspan x="10" y="1674"> 87.  2017-04-18 22:14:00 +0000     7218 bytes  www/firefoxos/locales/date.da.properties</tspan>
-<tspan x="10" y="1690"> 88.  2017-04-18 22:14:00 +0000     7703 bytes  www/firefoxos/locales/date.de.properties</tspan>
-<tspan x="10" y="1706"> 89.  2017-04-18 22:14:00 +0000     8511 bytes  www/firefoxos/locales/date.el.properties</tspan>
-<tspan x="10" y="1722"> 90.  2017-04-18 22:14:00 +0000     7012 bytes  www/firefoxos/locales/date.en-GB.properties</tspan>
-<tspan x="10" y="1738"> 91.  2017-04-18 22:14:00 +0000     7093 bytes  www/firefoxos/locales/date.en-US.properties</tspan>
-<tspan x="10" y="1754"> 92.  2017-04-18 22:14:00 +0000     7298 bytes  www/firefoxos/locales/date.eo.properties</tspan>
-<tspan x="10" y="1770"> 93.  2017-04-18 22:14:00 +0000     7174 bytes  www/firefoxos/locales/date.es.properties</tspan>
-<tspan x="10" y="1786"> 94.  2017-04-18 22:14:00 +0000     7388 bytes  www/firefoxos/locales/date.et.properties</tspan>
-<tspan x="10" y="1802"> 95.  2017-04-18 22:14:00 +0000     7231 bytes  www/firefoxos/locales/date.eu.properties</tspan>
-<tspan x="10" y="1818"> 96.  2017-04-18 22:14:00 +0000     7385 bytes  www/firefoxos/locales/date.ff.properties</tspan>
-<tspan x="10" y="1834"> 97.  2017-04-18 22:14:00 +0000     7433 bytes  www/firefoxos/locales/date.fr.properties</tspan>
-<tspan x="10" y="1850"> 98.  2017-04-18 22:14:00 +0000     7115 bytes  www/firefoxos/locales/date.fy-NL.properties</tspan>
-<tspan x="10" y="1866"> 99.  2017-04-18 22:14:00 +0000     7702 bytes  www/firefoxos/locales/date.ga-IE.properties</tspan>
-<tspan x="10" y="1882">100.  2017-04-18 22:14:00 +0000     7646 bytes  www/firefoxos/locales/date.gd.properties</tspan>
-<tspan x="10" y="1898">101.  2017-04-18 22:14:00 +0000     6860 bytes  www/firefoxos/locales/date.gl.properties</tspan>
-<tspan x="10" y="1914">102.  2017-04-18 22:14:00 +0000     8633 bytes  www/firefoxos/locales/date.gu.properties</tspan>
-<tspan x="10" y="1930">103.  2017-04-18 22:14:00 +0000     2976 bytes  www/firefoxos/locales/date.he.properties</tspan>
-<tspan x="10" y="1946">104.  2017-04-18 22:14:00 +0000     8941 bytes  www/firefoxos/locales/date.hi-IN.properties</tspan>
-<tspan x="10" y="1962">105.  2017-04-18 22:14:00 +0000     7190 bytes  www/firefoxos/locales/date.hr.properties</tspan>
-<tspan x="10" y="1978">106.  2017-04-18 22:14:00 +0000     7491 bytes  www/firefoxos/locales/date.hu.properties</tspan>
-<tspan x="10" y="1994">107.  2017-04-18 22:14:00 +0000     7209 bytes  www/firefoxos/locales/date.id.properties</tspan>
-<tspan x="10" y="2010">108.  2017-04-18 22:14:00 +0000     3551 bytes  www/firefoxos/locales/date.ini</tspan>
-<tspan x="10" y="2026">109.  2017-04-18 22:14:00 +0000     6279 bytes  www/firefoxos/locales/date.it.properties</tspan>
-<tspan x="10" y="2042">110.  2017-04-18 22:14:00 +0000     7049 bytes  www/firefoxos/locales/date.ja.properties</tspan>
-<tspan x="10" y="2058">111.  2017-04-18 22:14:00 +0000     9686 bytes  www/firefoxos/locales/date.km.properties</tspan>
-<tspan x="10" y="2074">112.  2017-04-18 22:14:00 +0000     9302 bytes  www/firefoxos/locales/date.kn.properties</tspan>
-<tspan x="10" y="2090">113.  2017-04-18 22:14:00 +0000     7011 bytes  www/firefoxos/locales/date.ko.properties</tspan>
-<tspan x="10" y="2106">114.  2017-04-18 22:14:00 +0000     4339 bytes  www/firefoxos/locales/date.lij.properties</tspan>
-<tspan x="10" y="2122">115.  2017-04-18 22:14:00 +0000     7521 bytes  www/firefoxos/locales/date.lt.properties</tspan>
-<tspan x="10" y="2138">116.  2017-04-18 22:14:00 +0000     8813 bytes  www/firefoxos/locales/date.mai.properties</tspan>
-<tspan x="10" y="2154">117.  2017-04-18 22:14:00 +0000     8104 bytes  www/firefoxos/locales/date.mk.properties</tspan>
-<tspan x="10" y="2170">118.  2017-04-18 22:14:00 +0000    11027 bytes  www/firefoxos/locales/date.ml.properties</tspan>
-<tspan x="10" y="2186">119.  2017-04-18 22:14:00 +0000     9266 bytes  www/firefoxos/locales/date.mr.properties</tspan>
-<tspan x="10" y="2202">120.  2017-04-18 22:14:00 +0000     7263 bytes  www/firefoxos/locales/date.ms.properties</tspan>
-<tspan x="10" y="2218">121.  2017-04-18 22:14:00 +0000     7140 bytes  www/firefoxos/locales/date.nb-NO.properties</tspan>
-<tspan x="10" y="2234">122.  2017-04-18 22:14:00 +0000     8961 bytes  www/firefoxos/locales/date.ne-NP.properties</tspan>
-<tspan x="10" y="2250">123.  2017-04-18 22:14:00 +0000     7263 bytes  www/firefoxos/locales/date.nl.properties</tspan>
-<tspan x="10" y="2266">124.  2017-04-18 22:14:00 +0000     9109 bytes  www/firefoxos/locales/date.or.properties</tspan>
-<tspan x="10" y="2282">125.  2017-04-18 22:14:00 +0000     9044 bytes  www/firefoxos/locales/date.pa.properties</tspan>
-<tspan x="10" y="2298">126.  2017-04-18 22:14:00 +0000     6027 bytes  www/firefoxos/locales/date.pl.properties</tspan>
-<tspan x="10" y="2314">127.  2017-04-18 22:14:00 +0000     7145 bytes  www/firefoxos/locales/date.pt-BR.properties</tspan>
-<tspan x="10" y="2330">128.  2017-04-18 22:14:00 +0000     7255 bytes  www/firefoxos/locales/date.ro.properties</tspan>
-<tspan x="10" y="2346">129.  2017-04-18 22:14:00 +0000     7565 bytes  www/firefoxos/locales/date.ru.properties</tspan>
-<tspan x="10" y="2362">130.  2017-04-18 22:14:00 +0000     9166 bytes  www/firefoxos/locales/date.si.properties</tspan>
-<tspan x="10" y="2378">131.  2017-04-18 22:14:00 +0000     7200 bytes  www/firefoxos/locales/date.sk.properties</tspan>
-<tspan x="10" y="2394">132.  2017-04-18 22:14:00 +0000     7149 bytes  www/firefoxos/locales/date.sl.properties</tspan>
-<tspan x="10" y="2410">133.  2017-04-18 22:14:00 +0000     7165 bytes  www/firefoxos/locales/date.son.properties</tspan>
-<tspan x="10" y="2426">134.  2017-04-18 22:14:00 +0000     7396 bytes  www/firefoxos/locales/date.sq.properties</tspan>
-<tspan x="10" y="2442">135.  2017-04-18 22:14:00 +0000     8022 bytes  www/firefoxos/locales/date.sr-Cyrl.properties</tspan>
-<tspan x="10" y="2458">136.  2017-04-18 22:14:00 +0000     7137 bytes  www/firefoxos/locales/date.sr-Latn.properties</tspan>
-<tspan x="10" y="2474">137.  2017-04-18 22:14:00 +0000     7121 bytes  www/firefoxos/locales/date.sv-SE.properties</tspan>
-<tspan x="10" y="2490">138.  2017-04-18 22:14:00 +0000     7477 bytes  www/firefoxos/locales/date.sw.properties</tspan>
-<tspan x="10" y="2506">139.  2017-04-18 22:14:00 +0000    10075 bytes  www/firefoxos/locales/date.ta.properties</tspan>
-<tspan x="10" y="2522">140.  2017-04-18 22:14:00 +0000     9110 bytes  www/firefoxos/locales/date.te.properties</tspan>
-<tspan x="10" y="2538">141.  2017-04-18 22:14:00 +0000     1649 bytes  www/firefoxos/locales/date.th.properties</tspan>
-<tspan x="10" y="2554">142.  2017-04-18 22:14:00 +0000     7265 bytes  www/firefoxos/locales/date.tr.properties</tspan>
-<tspan x="10" y="2570">143.  2017-04-18 22:14:00 +0000     7859 bytes  www/firefoxos/locales/date.ur.properties</tspan>
-<tspan x="10" y="2586">144.  2017-04-18 22:14:00 +0000     7546 bytes  www/firefoxos/locales/date.vi.properties</tspan>
-<tspan x="10" y="2602">145.  2017-04-18 22:14:00 +0000     7668 bytes  www/firefoxos/locales/date.xh.properties</tspan>
-<tspan x="10" y="2618">146.  2017-04-18 22:14:00 +0000     7070 bytes  www/firefoxos/locales/date.zh-CN.properties</tspan>
-<tspan x="10" y="2634">147.  2017-04-18 22:14:00 +0000     7055 bytes  www/firefoxos/locales/date.zh-TW.properties</tspan>
-<tspan x="10" y="2650">148.  2017-04-18 22:14:00 +0000    16653 bytes  www/globalization.js</tspan>
-<tspan x="10" y="2666">149.  2017-04-18 22:14:00 +0000     6013 bytes  www/ubuntu/globalization.js</tspan>
+<tspan x="10" y="1402"> 70.  2017-04-18 22:15:02 +0000     4494 bytes  src/wp/Globalization.cs</tspan>
+<tspan x="10" y="1418"> 71.  2017-04-18 22:15:02 +0000     1112 bytes  tests/plugin.xml</tspan>
+<tspan x="10" y="1434"> 72.  2017-04-18 22:15:02 +0000    30768 bytes  tests/tests.js</tspan>
+<tspan x="10" y="1450"> 73.  2017-04-18 22:15:02 +0000    13002 bytes  types/index.d.ts</tspan>
+<tspan x="10" y="1466"> 74.  2017-04-18 22:15:02 +0000     1246 bytes  www/GlobalizationError.js</tspan>
+<tspan x="10" y="1482"> 75.  2017-04-18 22:15:02 +0000   334362 bytes  www/browser/moment.js</tspan>
+<tspan x="10" y="1498"> 76.  2017-04-18 22:15:02 +0000    38612 bytes  www/firefoxos/l10n.js</tspan>
+<tspan x="10" y="1514"> 77.  2017-04-18 22:15:02 +0000     6038 bytes  www/firefoxos/l10n_date.js</tspan>
+<tspan x="10" y="1530"> 78.  2017-04-18 22:15:02 +0000     7920 bytes  www/firefoxos/locales/date.ar.properties</tspan>
+<tspan x="10" y="1546"> 79.  2017-04-18 22:15:02 +0000     8550 bytes  www/firefoxos/locales/date.as.properties</tspan>
+<tspan x="10" y="1562"> 80.  2017-04-18 22:15:02 +0000     5037 bytes  www/firefoxos/locales/date.ast.properties</tspan>
+<tspan x="10" y="1578"> 81.  2017-04-18 22:15:02 +0000     8099 bytes  www/firefoxos/locales/date.bg.properties</tspan>
+<tspan x="10" y="1594"> 82.  2017-04-18 22:15:02 +0000     9381 bytes  www/firefoxos/locales/date.bn-BD.properties</tspan>
+<tspan x="10" y="1610"> 83.  2017-04-18 22:15:02 +0000     8996 bytes  www/firefoxos/locales/date.bn-IN.properties</tspan>
+<tspan x="10" y="1626"> 84.  2017-04-18 22:15:02 +0000     7240 bytes  www/firefoxos/locales/date.ca.properties</tspan>
+<tspan x="10" y="1642"> 85.  2017-04-18 22:15:02 +0000     7178 bytes  www/firefoxos/locales/date.cs.properties</tspan>
+<tspan x="10" y="1658"> 86.  2017-04-18 22:15:02 +0000     7297 bytes  www/firefoxos/locales/date.cy.properties</tspan>
+<tspan x="10" y="1674"> 87.  2017-04-18 22:15:02 +0000     7218 bytes  www/firefoxos/locales/date.da.properties</tspan>
+<tspan x="10" y="1690"> 88.  2017-04-18 22:15:02 +0000     7703 bytes  www/firefoxos/locales/date.de.properties</tspan>
+<tspan x="10" y="1706"> 89.  2017-04-18 22:15:02 +0000     8511 bytes  www/firefoxos/locales/date.el.properties</tspan>
+<tspan x="10" y="1722"> 90.  2017-04-18 22:15:02 +0000     7012 bytes  www/firefoxos/locales/date.en-GB.properties</tspan>
+<tspan x="10" y="1738"> 91.  2017-04-18 22:15:02 +0000     7093 bytes  www/firefoxos/locales/date.en-US.properties</tspan>
+<tspan x="10" y="1754"> 92.  2017-04-18 22:15:02 +0000     7298 bytes  www/firefoxos/locales/date.eo.properties</tspan>
+<tspan x="10" y="1770"> 93.  2017-04-18 22:15:02 +0000     7174 bytes  www/firefoxos/locales/date.es.properties</tspan>
+<tspan x="10" y="1786"> 94.  2017-04-18 22:15:02 +0000     7388 bytes  www/firefoxos/locales/date.et.properties</tspan>
+<tspan x="10" y="1802"> 95.  2017-04-18 22:15:02 +0000     7231 bytes  www/firefoxos/locales/date.eu.properties</tspan>
+<tspan x="10" y="1818"> 96.  2017-04-18 22:15:02 +0000     7385 bytes  www/firefoxos/locales/date.ff.properties</tspan>
+<tspan x="10" y="1834"> 97.  2017-04-18 22:15:02 +0000     7433 bytes  www/firefoxos/locales/date.fr.properties</tspan>
+<tspan x="10" y="1850"> 98.  2017-04-18 22:15:02 +0000     7115 bytes  www/firefoxos/locales/date.fy-NL.properties</tspan>
+<tspan x="10" y="1866"> 99.  2017-04-18 22:15:02 +0000     7702 bytes  www/firefoxos/locales/date.ga-IE.properties</tspan>
+<tspan x="10" y="1882">100.  2017-04-18 22:15:02 +0000     7646 bytes  www/firefoxos/locales/date.gd.properties</tspan>
+<tspan x="10" y="1898">101.  2017-04-18 22:15:02 +0000     6860 bytes  www/firefoxos/locales/date.gl.properties</tspan>
+<tspan x="10" y="1914">102.  2017-04-18 22:15:02 +0000     8633 bytes  www/firefoxos/locales/date.gu.properties</tspan>
+<tspan x="10" y="1930">103.  2017-04-18 22:15:02 +0000     2976 bytes  www/firefoxos/locales/date.he.properties</tspan>
+<tspan x="10" y="1946">104.  2017-04-18 22:15:02 +0000     8941 bytes  www/firefoxos/locales/date.hi-IN.properties</tspan>
+<tspan x="10" y="1962">105.  2017-04-18 22:15:02 +0000     7190 bytes  www/firefoxos/locales/date.hr.properties</tspan>
+<tspan x="10" y="1978">106.  2017-04-18 22:15:02 +0000     7491 bytes  www/firefoxos/locales/date.hu.properties</tspan>
+<tspan x="10" y="1994">107.  2017-04-18 22:15:02 +0000     7209 bytes  www/firefoxos/locales/date.id.properties</tspan>
+<tspan x="10" y="2010">108.  2017-04-18 22:15:02 +0000     3551 bytes  www/firefoxos/locales/date.ini</tspan>
+<tspan x="10" y="2026">109.  2017-04-18 22:15:02 +0000     6279 bytes  www/firefoxos/locales/date.it.properties</tspan>
+<tspan x="10" y="2042">110.  2017-04-18 22:15:02 +0000     7049 bytes  www/firefoxos/locales/date.ja.properties</tspan>
+<tspan x="10" y="2058">111.  2017-04-18 22:15:02 +0000     9686 bytes  www/firefoxos/locales/date.km.properties</tspan>
+<tspan x="10" y="2074">112.  2017-04-18 22:15:02 +0000     9302 bytes  www/firefoxos/locales/date.kn.properties</tspan>
+<tspan x="10" y="2090">113.  2017-04-18 22:15:02 +0000     7011 bytes  www/firefoxos/locales/date.ko.properties</tspan>
+<tspan x="10" y="2106">114.  2017-04-18 22:15:02 +0000     4339 bytes  www/firefoxos/locales/date.lij.properties</tspan>
+<tspan x="10" y="2122">115.  2017-04-18 22:15:02 +0000     7521 bytes  www/firefoxos/locales/date.lt.properties</tspan>
+<tspan x="10" y="2138">116.  2017-04-18 22:15:02 +0000     8813 bytes  www/firefoxos/locales/date.mai.properties</tspan>
+<tspan x="10" y="2154">117.  2017-04-18 22:15:02 +0000     8104 bytes  www/firefoxos/locales/date.mk.properties</tspan>
+<tspan x="10" y="2170">118.  2017-04-18 22:15:02 +0000    11027 bytes  www/firefoxos/locales/date.ml.properties</tspan>
+<tspan x="10" y="2186">119.  2017-04-18 22:15:02 +0000     9266 bytes  www/firefoxos/locales/date.mr.properties</tspan>
+<tspan x="10" y="2202">120.  2017-04-18 22:15:02 +0000     7263 bytes  www/firefoxos/locales/date.ms.properties</tspan>
+<tspan x="10" y="2218">121.  2017-04-18 22:15:02 +0000     7140 bytes  www/firefoxos/locales/date.nb-NO.properties</tspan>
+<tspan x="10" y="2234">122.  2017-04-18 22:15:02 +0000     8961 bytes  www/firefoxos/locales/date.ne-NP.properties</tspan>
+<tspan x="10" y="2250">123.  2017-04-18 22:15:02 +0000     7263 bytes  www/firefoxos/locales/date.nl.properties</tspan>
+<tspan x="10" y="2266">124.  2017-04-18 22:15:02 +0000     9109 bytes  www/firefoxos/locales/date.or.properties</tspan>
+<tspan x="10" y="2282">125.  2017-04-18 22:15:02 +0000     9044 bytes  www/firefoxos/locales/date.pa.properties</tspan>
+<tspan x="10" y="2298">126.  2017-04-18 22:15:02 +0000     6027 bytes  www/firefoxos/locales/date.pl.properties</tspan>
+<tspan x="10" y="2314">127.  2017-04-18 22:15:02 +0000     7145 bytes  www/firefoxos/locales/date.pt-BR.properties</tspan>
+<tspan x="10" y="2330">128.  2017-04-18 22:15:02 +0000     7255 bytes  www/firefoxos/locales/date.ro.properties</tspan>
+<tspan x="10" y="2346">129.  2017-04-18 22:15:02 +0000     7565 bytes  www/firefoxos/locales/date.ru.properties</tspan>
+<tspan x="10" y="2362">130.  2017-04-18 22:15:02 +0000     9166 bytes  www/firefoxos/locales/date.si.properties</tspan>
+<tspan x="10" y="2378">131.  2017-04-18 22:15:02 +0000     7200 bytes  www/firefoxos/locales/date.sk.properties</tspan>
+<tspan x="10" y="2394">132.  2017-04-18 22:15:02 +0000     7149 bytes  www/firefoxos/locales/date.sl.properties</tspan>
+<tspan x="10" y="2410">133.  2017-04-18 22:15:02 +0000     7165 bytes  www/firefoxos/locales/date.son.properties</tspan>
+<tspan x="10" y="2426">134.  2017-04-18 22:15:02 +0000     7396 bytes  www/firefoxos/locales/date.sq.properties</tspan>
+<tspan x="10" y="2442">135.  2017-04-18 22:15:02 +0000     8022 bytes  www/firefoxos/locales/date.sr-Cyrl.properties</tspan>
+<tspan x="10" y="2458">136.  2017-04-18 22:15:02 +0000     7137 bytes  www/firefoxos/locales/date.sr-Latn.properties</tspan>
+<tspan x="10" y="2474">137.  2017-04-18 22:15:02 +0000     7121 bytes  www/firefoxos/locales/date.sv-SE.properties</tspan>
+<tspan x="10" y="2490">138.  2017-04-18 22:15:02 +0000     7477 bytes  www/firefoxos/locales/date.sw.properties</tspan>
+<tspan x="10" y="2506">139.  2017-04-18 22:15:02 +0000    10075 bytes  www/firefoxos/locales/date.ta.properties</tspan>
+<tspan x="10" y="2522">140.  2017-04-18 22:15:02 +0000     9110 bytes  www/firefoxos/locales/date.te.properties</tspan>
+<tspan x="10" y="2538">141.  2017-04-18 22:15:02 +0000     1649 bytes  www/firefoxos/locales/date.th.properties</tspan>
+<tspan x="10" y="2554">142.  2017-04-18 22:15:02 +0000     7265 bytes  www/firefoxos/locales/date.tr.properties</tspan>
+<tspan x="10" y="2570">143.  2017-04-18 22:15:02 +0000     7859 bytes  www/firefoxos/locales/date.ur.properties</tspan>
+<tspan x="10" y="2586">144.  2017-04-18 22:15:02 +0000     7546 bytes  www/firefoxos/locales/date.vi.properties</tspan>
+<tspan x="10" y="2602">145.  2017-04-18 22:15:02 +0000     7668 bytes  www/firefoxos/locales/date.xh.properties</tspan>
+<tspan x="10" y="2618">146.  2017-04-18 22:15:02 +0000     7070 bytes  www/firefoxos/locales/date.zh-CN.properties</tspan>
+<tspan x="10" y="2634">147.  2017-04-18 22:15:02 +0000     7055 bytes  www/firefoxos/locales/date.zh-TW.properties</tspan>
+<tspan x="10" y="2650">148.  2017-04-18 22:15:02 +0000    16653 bytes  www/globalization.js</tspan>
+<tspan x="10" y="2666">149.  2017-04-18 22:15:02 +0000     6013 bytes  www/ubuntu/globalization.js</tspan>
 </text>
 </svg>
